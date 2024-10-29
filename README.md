@@ -67,7 +67,7 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t)
 
 
 ## ⚠️ Reminder
