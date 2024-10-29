@@ -26,22 +26,17 @@
 <p align="center">
 <a href="https://github.com/JawadTechX"><img title="Author" src="https://img.shields.io/badge/IJawadTechX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
 
-
-## 🚀 Getting Started
-
-To get started with KHAN-MD, follow these steps:
-
 ### 1. Fork This Repository
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
 <a href='https://github.com/JawadTechX/KHAN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Get Session ID via Pair Code
+### 2. Get Session ID 
 
-You'll need a session ID to run the bot. Click the button below to obtain your session ID:
+Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
-<a href='https://residential-reena-xdkhan-66320d0b.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## 🚀 Deployment Options
 
