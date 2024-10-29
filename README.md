@@ -36,15 +36,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
-<a href='' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
-
-## 🚀 Deployment Options
-
-You can deploy the KHAN-MD bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
-
-### Deploy to Heroku
-
-Deploying the bot to Heroku is simple and straightforward. Follow these steps:
+<a href='https://residential-reena-xdkhan-66320d0b.koyeb.app' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 1. **Create a Heroku Account:**
 
