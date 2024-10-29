@@ -38,6 +38,10 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
 <a href='https://residential-reena-xdkhan-66320d0b.koyeb.app' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
+## **DEPLOY TO HEROKU**
+
+*Follow The Steps To Deploy On Heroku*
+
 1. **Create a Heroku Account:**
 
    If you don't already have a Heroku account, create one by clicking the button below:
