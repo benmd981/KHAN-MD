@@ -1,10 +1,27 @@
----
-
-# KHAN-MD
+<h1 align="center"> KHAN-MD V-1.2 </h1>
 
 <p align="center">
   <a href="https://github.com/JawadTechX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=KHAN-MD-+v1+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme"></a>
 </p>
+
+<details>
+<summary> VIEW CHANGELOG V-1.2.0 ⬇️ </summary>
+  
+- **All Downloaders Fixed & Working.**
+
+- **Reply With Status Seen Added.**
+ 
+- **Fixed Gpt/Gpt4 Command Now.**
+ 
+- **Overall Performance Improved.**
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://i.imgur.com/PeFnIca.jpeg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 🚀 Getting Started
 
