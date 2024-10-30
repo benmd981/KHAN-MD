@@ -24,7 +24,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-<a href="https://github.com/JawadTechX"><img title="Author" src="https://img.shields.io/badge/IJawadTechX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JawadTechX"><img title="Author" src="https://img.shields.io/badge/JawadTechX-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
 
 ### 1. Fork This Repository
 
