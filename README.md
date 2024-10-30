@@ -70,9 +70,9 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
 2. **Deploy On Koyeb:**
   
-Once your Koyeb account is ready, deploy the bot by clicking the button below:
-
-<a href='jawadhtm' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+   Now its ready to deploy on koyeb.
+   <br>
+    <a href='jawadhtm' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ## 🌐 WhatsApp Channel 
 
