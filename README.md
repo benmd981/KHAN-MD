@@ -54,6 +54,26 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
+## **DEPLOY TO KOYEB**
+
+*Follow The Steps To Deploy On koyeb*
+
+1. **Create a Koyeb Account:**
+
+   If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
+
+4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api) and copy it
+
+2. **Deploy On Koyeb:**
+  
+Once your Koyeb account is ready, deploy the bot by clicking the button below:
+
+<a href='jawadhtm' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
 ## 🌐 WhatsApp Channel 
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
