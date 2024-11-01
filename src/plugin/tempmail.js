@@ -156,7 +156,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
                                 text: inboxMessages
                             }),
                             footer: proto.Message.InteractiveMessage.Footer.create({
-                                text: "© Powered By 𝞢𝙏𝞖𝞘𝞦-𝞛𝘿"
+                                text: "© Powered By KHAN-MD"
                             }),
                             header: proto.Message.InteractiveMessage.Header.create({
                                 title: "",
