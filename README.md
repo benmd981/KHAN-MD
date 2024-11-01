@@ -48,7 +48,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 Click on Paring Code To Get Seasion ID To Start The KHAN-MD
 
-<a href='https://residential-reena-xdkhan-66320d0b.koyeb.app' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='quarrelsome-tiertza-paringxxx-0d634f46.koyeb.app' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## **DEPLOY TO HEROKU**
 
