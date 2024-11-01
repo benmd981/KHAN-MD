@@ -45,8 +45,8 @@ const handleRepoCommand = async (m, Matrix) => {
                 {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
-                    display_text: "FOLLOW WACHANNEL",
-                    url: `https://whatsapp.com/channel/0029Vaj1hl1Lo4hksSXY0U2t`
+                    display_text: "GITHUB REPOSITORY",
+                    url: `https://github.com/JawadTechX/KHAN-MD`
                   })
                 },
                 {
