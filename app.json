@@ -2,7 +2,7 @@
   "name": "WhatsApp Bot KHAN-MD",
   "description": "I am KHAN-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://raw.githubusercontent.com/JawadTechX/JawadTechX/main/JawadTechX.png",
-  "keywords":["WhastApp Bot","Khan-MD","JawadTechX"],
+  "keywords": ["KHAN-MD"],
   "repository": "https://github.com/JawadTechX/KHAN-MD",
   "stack": "container",
   "env": { 
@@ -19,52 +19,62 @@
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_STATUS_REPLY": {
       "description": "make it true if you want to send message after seen status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": ""
+      "value": "*Status Seen By KHAN-MD 👻🤍*"
+    },
+    "OWNER_NAME": {
+      "description": "set your status reply message",
+      "required": false,
+      "value": "KHAN-MD"
+    },
+    "OWNER_NUMBER": {
+      "description": "set your status reply message",
+      "required": false,
+      "value": "92310344XXXX"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
     "buildpacks": [
