@@ -1,8 +1,9 @@
 {
-  "name": "whatsapp-bot (KHAN-MD)",
-  "description": " Whatsapp bot.",
+  "name": "KHAN-MD",
+  "description": "I am KHAN-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "logo": "https://raw.githubusercontent.com/JawadTechX/JawadTechX/main/JawadTechX.png",
   "keywords": [
-    "whatsapp bot"
+    "WhatsApp-Bot","JawadTechX","Khan-Md"
   ],
   "repository": "https://github.com/JawadTechX/KHAN-MD",
   "stack": "container",
