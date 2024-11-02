@@ -50,7 +50,7 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
 
  > Get Pair Code (Server 1)
 
-<a href='https://loose-sabra-paringxxx-969d1451.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://immense-ilka-pairxp-85b48d33.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 <br>
 
 > Get Pair Code (Server 2)
