@@ -138,6 +138,12 @@ _Then Deploy Delete Seasion Id Variable From Deployment Site And Enjoy._
  -------- 
 ## Spical Thanks To 🔻 
 
+  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+
+  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+
+  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+
  --------
 
 ## 🌐 WhatsApp Channel 
