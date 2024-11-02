@@ -12,7 +12,7 @@
       "value": ""
     },
     "MODE": {
-      "description": "mode public or self",
+      "description": "mode public or private",
       "required": true,
       "value": "public"
     },
@@ -30,16 +30,6 @@
       "description": "set your status reply message",
       "required": false,
       "value": "*Status Seen By KHAN-MD 👻🤍*"
-    },
-    "OWNER_NAME": {
-      "description": "set your status reply message",
-      "required": false,
-      "value": "KHAN-MD"
-    },
-    "OWNER_NUMBER": {
-      "description": "set your status reply message",
-      "required": false,
-      "value": "92310344XXXX"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
