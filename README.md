@@ -138,11 +138,11 @@ _Then Deploy Delete Seasion Id Variable From Deployment Site And Enjoy._
  -------- 
 ## Spical Thanks To 🔻 
 
-  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+> <a href="https://github.com/Itxxwasi">WASI TECH</a> To Resolve Errors In Bot.
 
-  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+> <a href="https://github.com/ROMEKTRICKS">ROMEKTRICKS</a> For Helping In Coding.
 
-  <a href="https://github.com/JawadTechX/KHAN-MD/fork">KHAN-MD</a>
+> <a href="https://youtube.com/@mazari_technical304">MAZARI TECHNICAL</a> For Fixing Downloaders .
 
  --------
 
