@@ -40,19 +40,19 @@ const msgRetryCounterCache = new NodeCache();
 const __filename = new URL(import.meta.url).pathname;
 const __dirname = path.dirname(__filename);
 
-const sessionDir = path.join(__dirname, 'session'); // if sessions exist 
-const credsPath = path.join(sessionDir, 'creds.json'); // if creds  json exist 
+const sessionDir = path.join(__dirname, 'session');
+const credsPath = path.join(sessionDir, 'creds.json');
 
 if (!fs.existsSync(sessionDir)) {
-    fs.mkdirSync(sessionDir, { recursive: true });  // if session not exit 
+    fs.mkdirSync(sessionDir, { recursive: true });
 }
 
-async function downloadSessionData() { 
+async function downloadSessionData() {
     if (!config.SESSION_ID) {
-        console.error('Please add your session to SESSION_ID env !!');  // downlode session data from  session id 
+        console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("KHAN-MD&")[1];  //  
+    const sessdata = config.SESSION_ID.split("Khan~")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
