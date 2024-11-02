@@ -55,6 +55,14 @@
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
       "value": "false"
+   "OWNER_NAME": {
+      "description": "type here bot owner name here",
+      "required": false,
+      "value": "KHAN-MDX" 
+  "OWNER_NUMBER": {
+      "description": "type bot owner number here",
+      "required": false,
+      "value": "92310344XXXX"
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
