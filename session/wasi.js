@@ -3,7 +3,7 @@ import makeWASocket, { useSingleFileAuthState } from '@whiskeysockets/baileys';
 import * as fs from 'fs';
 
 // Load authentication state from a single JSON file
-const { state, saveState } = useSingleFileAuthState('./auth_info.json');
+const { state, saveState } = useSingleFileAuthState('./creds.json');
 
 // Function to connect to WhatsApp
 async function wasidevsays() {
