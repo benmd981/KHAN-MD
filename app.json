@@ -32,12 +32,12 @@
       "value": "*Status Seen By KHAN-MD 👻🤍*"
     },
     "OWNER_NAME": {
-      "description": "set your status reply message",
+      "description": "set owner name for bot",
       "required": false,
       "value": "KHAN-MD"
     },
     "OWNER_NUMBER": {
-      "description": "set your status reply message",
+      "description": "set your owner number for bot",
       "required": false,
       "value": "92310344XXXX"
     },
