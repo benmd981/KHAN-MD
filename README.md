@@ -118,24 +118,8 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
---------
-
-### Get Creds.json Method
-
-<p align="center">
-
-_if The 1/2 Paring Server Not Working Then Fork Repo , Then Pair From Following, You'll Get A File After Pairing._
-
-_Upload Your Creds.json File Inside The session Folder/Directory Of Fork._
-
-_Then Deploy Delete Seasion Id Variable From Deployment Site And Enjoy._
-
-> Get Creds.json (Server 3)
-    
-
-<a href='htt/' target="_blank"><img alt='Get Creds.json File' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
  -------- 
+ 
 ## Spical Thanks To 🔻 
 
 > <a href="https://github.com/Itxxwasi">WASI TECH</a> To Resolve Errors In Bot.
