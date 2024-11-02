@@ -1,11 +1,11 @@
-<h1 align="center"> KHAN-MD V-1.2 </h1>
+<h1 align="center"> KHAN-MD V-1.3</h1>
 
 <p align="center">
-  <a href="https://github.com/JawadTechX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=KHAN-MD-+v1.2+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme"></a>
+  <a href="https://github.com/JawadTechX"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=KHAN-MD-+v1.3+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme"></a>
 </p>
 
 <details>
-<summary> VIEW CHANGELOG V-1.2.0 ⬇️ </summary>
+<summary> VIEW CHANGELOG V-1.3.0 ⬇️ </summary>
   
 - **All Downloaders Fixed Now.**
 
