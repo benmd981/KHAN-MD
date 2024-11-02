@@ -48,7 +48,14 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use VPN
 
-<a href='https://passive-bea-paringxxx-0530423c.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+ > Get Pair Code (Server 1)
+
+<a href='https://loose-sabra-paringxxx-969d1451.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<br>
+
+> Get Pair Code (Server 2)
+
+<a href='https://central-evania-ultramd-707742b1.koyeb.app/' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## **DEPLOY TO HEROKU**
 
@@ -85,7 +92,7 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
   
    Now its ready to deploy on koyeb.
    <br>
-    <a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadTechX/KHAN-MD&ports=3000;http;/&env[SESSION_ID]=null&env[DATABASE_URL]=null&env[KOYEB_API]=null&env[MODE]=public&env[PREFIX]=.&env&env[PORT]=3000&[KOYEB]=true&env[OWNER_NUMBER]=,null&env[OWNER_NAME]=JawadTechX&env[AUTO_REJECT_CALLS]=false&env[WELCOME]=false&env[AUTO_READ_STATUS]=true&env[STATUS_READ_MSG]=KHAN-MD&env[AUTO_REPLY_STATUS]=true&env[AUTO_READ_MESSAGES]=false&env[ALWAYS_ONLINE]=false&env[AUTO_RECORDING]=false&env[AUTO_TYPING]=false&env[AUTO_REACT]=false&env[AUTO_BLOCK]=false&name=null&env[KOYEB_NAME]=khanmd&builder=dockerfile' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+    <a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadTechX/KHAN-MD&ports=3000;http;/&env[SESSION_ID]=null&env[MODE]=public&env[PREFIX]=.&env&env[PORT]=3000&[KOYEB]=true&env[AUTO_REJECT_CALLS]=false&env[WELCOME]=false&env[AUTO_READ_STATUS]=true&env[STATUS_READ_MSG]=KHAN-MD&env[AUTO_REPLY_STATUS]=false&env[AUTO_READ_MESSAGES]=false&env[ALWAYS_ONLINE]=false&env[AUTO_RECORDING]=false&env[AUTO_TYPING]=false&env[AUTO_REACT]=false&env[AUTO_BLOCK]=false&env[KOYEB_NAME]=khanmd&builder=dockerfile' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ### Other Deployments
 
@@ -112,6 +119,26 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
 --------
+
+### Get Creds.json Method
+
+<p align="center">
+
+_if The 1/2 Paring Server Not Working Then Fork Repo , Then Pair From Following, You'll Get A File After Pairing._
+
+_Upload Your Creds.json File Inside The session Folder/Directory Of Fork._
+
+_Then Deploy Delete Seasion Id Variable From Deployment Site And Enjoy._
+
+> Get Creds.json (Server 3)
+    
+
+<a href='htt/' target="_blank"><img alt='Get Creds.json File' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+ -------- 
+## Spical Thanks To 🔻 
+
+ --------
 
 ## 🌐 WhatsApp Channel 
 
