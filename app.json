@@ -45,6 +45,11 @@
       "description": "make it true if you want bot to read message",
       "required": false,
       "value": "false"
+   "AUTO_REACT": {
+      "description": "make it true if you want auto reaction",
+      "required": false,
+      "value": "false"
+    },
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
