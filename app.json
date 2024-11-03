@@ -32,12 +32,12 @@
       "value": "*Status Seen By KHAN-MD 👻🤍*"
     },
     "OWNER_NAME": {
-      "description": "set owner name for bot",
+      "description": "set your status reply message",
       "required": false,
       "value": "KHAN-MD"
     },
     "OWNER_NUMBER": {
-      "description": "set your owner number for bot",
+      "description": "set your status reply message",
       "required": false,
       "value": "92310344XXXX"
     },
@@ -45,11 +45,6 @@
       "description": "make it true if you want bot to read message",
       "required": false,
       "value": "false"
-   "AUTO_REACT": {
-      "description": "make it true if you want auto reaction",
-      "required": false,
-      "value": "false"
-    },
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
@@ -58,6 +53,11 @@
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_REACT": {
+      "description": "make it true if want auto react",
       "required": false,
       "value": "false"
     },
